@@ -1,8 +1,8 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "l2javaScript",
+  "title": "l2javaScript",
   "description": "",
-  "version": "This is auto replaced",
+  "version": "0.0.1",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
